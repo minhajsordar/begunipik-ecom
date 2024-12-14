@@ -87,6 +87,14 @@ minhaj@email.com (Customer)
 
 sordar@email.com (Customer)
 123456
-```
 
 ---
+```
+
+Full Stack Developer:
+Name: Minhaj Sordar
+email: minhajsorder8205@gmail.com
+linkdin: https://www.linkedin.com/in/minhajsordar/
+github: https://github.com/minhajsordar/
+
+
